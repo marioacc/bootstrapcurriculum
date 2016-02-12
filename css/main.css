@@ -1,0 +1,50 @@
+.logo{
+  background-color: tomato;
+  min-height: 11em;
+}
+
+.contacto > p{
+  color: gray;
+  margin-top: 0em;
+}
+
+.contacto > div{
+  color: gray;
+}
+
+.contactInformation{
+  margin-top: 2em;
+}
+
+.contacto> div >p {
+
+}
+.contacto{
+  margin-top: -2em;
+}
+
+.content{
+  margin-top: -4em;
+}
+.container{
+  margin-top: 7em;
+}
+
+h1{
+  font-weight: bold;
+}
+
+h3{
+  margin-top: 2em;
+  color: tomato;
+  font-weight: bold;
+}
+
+h4{
+  font-weight: bold;
+  font-size: 1em;
+}
+
+h5{
+  color: gray;
+}
